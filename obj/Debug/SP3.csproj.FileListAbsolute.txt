@@ -1,0 +1,11 @@
+D:\Usuario\Documents\facultad 2 AÑO\lab prog 3\SP3\SP3\bin\Debug\SP3.exe.config
+D:\Usuario\Documents\facultad 2 AÑO\lab prog 3\SP3\SP3\bin\Debug\SP3.exe
+D:\Usuario\Documents\facultad 2 AÑO\lab prog 3\SP3\SP3\bin\Debug\SP3.pdb
+D:\Usuario\Documents\facultad 2 AÑO\lab prog 3\SP3\SP3\obj\Debug\SP3.csproj.AssemblyReference.cache
+D:\Usuario\Documents\facultad 2 AÑO\lab prog 3\SP3\SP3\obj\Debug\SP3.csproj.SuggestedBindingRedirects.cache
+D:\Usuario\Documents\facultad 2 AÑO\lab prog 3\SP3\SP3\obj\Debug\SP3.Form1.resources
+D:\Usuario\Documents\facultad 2 AÑO\lab prog 3\SP3\SP3\obj\Debug\SP3.Properties.Resources.resources
+D:\Usuario\Documents\facultad 2 AÑO\lab prog 3\SP3\SP3\obj\Debug\SP3.csproj.GenerateResource.cache
+D:\Usuario\Documents\facultad 2 AÑO\lab prog 3\SP3\SP3\obj\Debug\SP3.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\facultad 2 AÑO\lab prog 3\SP3\SP3\obj\Debug\SP3.exe
+D:\Usuario\Documents\facultad 2 AÑO\lab prog 3\SP3\SP3\obj\Debug\SP3.pdb
